@@ -3,6 +3,7 @@
 
 [WebGPU Shading Language](https://www.w3.org/TR/WGSL/)
 
+[WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 ## Articles
 [WebGPU for Metal Developers, Part One – Metal by Example](https://metalbyexample.com/webgpu-part-one/)
 
