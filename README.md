@@ -11,3 +11,6 @@
 
 ## Tutorials
 [WebGPU - Everything I know](https://wiki.nikitavoloboev.xyz/computer-graphics/webgpu)
+
+## Gltf
+[Twinklebear/webgpu-gltf: A glTF loader and viewer using WebGPU](https://github.com/Twinklebear/webgpu-gltf)
