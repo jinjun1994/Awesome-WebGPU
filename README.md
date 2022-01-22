@@ -16,6 +16,8 @@
 
 [From 0 to glTF with WebGPU: Bind Groups - Updated](https://www.willusher.io/graphics/2021/08/30/0-to-gltf-bind-groups)
 
+[hjlld/LearningWebGPU: WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.](https://github.com/hjlld/LearningWebGPU)
+
 ## Gltf
 [Twinklebear/webgpu-gltf: A glTF loader and viewer using WebGPU](https://github.com/Twinklebear/webgpu-gltf)
 
