@@ -25,3 +25,6 @@
 [Twinklebear/webgpu-experiments: A series of examples written while learning about WebGPU](https://github.com/Twinklebear/webgpu-experiments)
 
 [alaingalvan/webgpu-seed: 🔺🌱 An example on how to render a hello triangle with WebGPU.](https://github.com/alaingalvan/webgpu-seed)
+
+## Libraries
+[redcamel/RedGPU: RedGPU - Javascript WebGPU Library](https://github.com/redcamel/RedGPU)
