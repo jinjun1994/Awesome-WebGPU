@@ -26,5 +26,7 @@
 
 [alaingalvan/webgpu-seed: 🔺🌱 An example on how to render a hello triangle with WebGPU.](https://github.com/alaingalvan/webgpu-seed)
 
+[redcamel/webgpu: webGPU basic samples](https://github.com/redcamel/webgpu)
+
 ## Libraries
 [redcamel/RedGPU: RedGPU - Javascript WebGPU Library](https://github.com/redcamel/RedGPU)
