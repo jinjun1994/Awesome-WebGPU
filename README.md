@@ -30,6 +30,8 @@
 ## WebGPU Api implementing
 [gfx-rs/wgpu: Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu)
 
+[dawn](https://dawn.googlesource.com/dawn)
+
 ## Examples
 [Twinklebear/webgpu-experiments: A series of examples written while learning about WebGPU](https://github.com/Twinklebear/webgpu-experiments)
 
