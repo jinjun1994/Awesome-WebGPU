@@ -5,9 +5,9 @@
 
 [WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 ## Articles
-[WebGPU 基础教程](https://mp.weixin.qq.com/s/RatM6VR8woUbkB_gp7xmuw)
+[Raw WebGPU](https://alain.xyz/blog/raw-webgpu) Chinese => [WebGPU 基础教程](https://mp.weixin.qq.com/s/RatM6VR8woUbkB_gp7xmuw)
 
-[Raw WebGPU](https://alain.xyz/blog/raw-webgpu) Chinese => [为什么需要从 WebGL 转到 WebGPU?](https://mp.weixin.qq.com/s/Qo5OIap9OfDCJUu9dDP3zQ)
+[为什么需要从 WebGL 转到 WebGPU?](https://mp.weixin.qq.com/s/Qo5OIap9OfDCJUu9dDP3zQ)
 
 [WebGPU for Metal Developers, Part One – Metal by Example](https://metalbyexample.com/webgpu-part-one/)
 
