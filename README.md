@@ -42,6 +42,6 @@
 ## best-practices
 [webgpu-best-practices/buffer-uploads.md at main · toji/webgpu-best-practices](https://github.com/toji/webgpu-best-practices/blob/main/buffer-uploads.md)
 
-[toji/webgpu-metaballs: Metaballs rendered in WebGPU](https://github.com/toji/webgpu-metaballs) [live](https://toji.github.io/webgpu-metaballs/)
+[toji/webgpu-metaballs: Metaballs rendered in WebGPU](https://github.com/toji/webgpu-metaballs) [(live)](https://toji.github.io/webgpu-metaballs/)
 
 
