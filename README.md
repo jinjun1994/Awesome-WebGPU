@@ -36,7 +36,7 @@
 
 [austinEng/webgpu-samples: WebGPU Samples](https://github.com/austinEng/webgpu-samples)
 
-[toji/webgpu-external-test: Tests consuming external textures with WebGPU](https://github.com/toji/webgpu-external-test) [Live](https://toji.github.io/webgpu-external-test/)
+[toji/webgpu-external-test: Tests consuming external textures with WebGPU](https://github.com/toji/webgpu-external-test) [(Live)](https://toji.github.io/webgpu-external-test/)
 
 ## Performance
 [toji/webgpu-clustered-shading: Personal experimental project to implement clustered shading with WebGPU.](https://github.com/toji/webgpu-clustered-shading)
