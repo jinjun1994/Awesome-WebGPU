@@ -22,15 +22,16 @@
 
 [hjlld/LearningWebGPU: WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.](https://github.com/hjlld/LearningWebGPU)
 
-
+## Awesome
+[mikbry/awesome-webgpu: 😎 Curated list of awesome things around WebGPU ecosystem.](https://github.com/mikbry/awesome-webgpu)
 
 ## Libraries
 [redcamel/RedGPU: RedGPU - Javascript WebGPU Library](https://github.com/redcamel/RedGPU)
 
 ## WebGPU Api implementing
-[gfx-rs/wgpu: Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu)
+[gfx-rs/wgpu: Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu) - Mozilla implementation
 
-[dawn](https://dawn.googlesource.com/dawn)
+[dawn](https://dawn.googlesource.com/dawn) - Google implementation
 
 ## Examples
 [Twinklebear/webgpu-experiments: A series of examples written while learning about WebGPU](https://github.com/Twinklebear/webgpu-experiments)
