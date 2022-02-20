@@ -59,6 +59,8 @@
 [toji/webgpu-clustered-shading: Personal experimental project to implement clustered shading with WebGPU.](https://github.com/toji/webgpu-clustered-shading)
 
 
+## Compute
+[bbbbx/webgpu-compute: A demo(~100 LOC) shows the WebGPU compute pipeline.](https://github.com/bbbbx/webgpu-compute)
 
 ## Loaders
 [loaders.gl](https://loaders.gl/docs)
