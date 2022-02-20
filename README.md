@@ -44,6 +44,11 @@
 ## Libraries
 [redcamel/RedGPU: RedGPU - Javascript WebGPU Library](https://github.com/redcamel/RedGPU)
 
+## Loaders
+[loaders.gl](https://loaders.gl/docs)
+
+
+
 ## best-practices
 [webgpu-best-practices/buffer-uploads.md at main · toji/webgpu-best-practices](https://github.com/toji/webgpu-best-practices/blob/main/buffer-uploads.md)
 
