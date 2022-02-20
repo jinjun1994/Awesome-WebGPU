@@ -36,12 +36,17 @@
 
 [austinEng/webgpu-samples: WebGPU Samples](https://github.com/austinEng/webgpu-samples)
 
+[toji/webgpu-external-test: Tests consuming external textures with WebGPU](https://github.com/toji/webgpu-external-test) [Live](https://toji.github.io/webgpu-external-test/)
+
+## Performance
+[toji/webgpu-clustered-shading: Personal experimental project to implement clustered shading with WebGPU.](https://github.com/toji/webgpu-clustered-shading)
+
 ## Libraries
 [redcamel/RedGPU: RedGPU - Javascript WebGPU Library](https://github.com/redcamel/RedGPU)
 
 ## best-practices
 [webgpu-best-practices/buffer-uploads.md at main · toji/webgpu-best-practices](https://github.com/toji/webgpu-best-practices/blob/main/buffer-uploads.md)
 
-[toji/webgpu-metaballs: Metaballs rendered in WebGPU](https://github.com/toji/webgpu-metaballs) [(live)](https://toji.github.io/webgpu-metaballs/)
+[toji/webgpu-metaballs: Metaballs rendered in WebGPU](https://github.com/toji/webgpu-metaballs) [(Live)](https://toji.github.io/webgpu-metaballs/)
 
 
