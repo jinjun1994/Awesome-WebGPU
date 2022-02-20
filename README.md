@@ -27,6 +27,8 @@
 
 [glTF-Transform](https://gltf-transform.donmccurdy.com/)
 
+[Draco 3D Graphics Compression](https://google.github.io/draco/)
+
 ## Examples
 [Twinklebear/webgpu-experiments: A series of examples written while learning about WebGPU](https://github.com/Twinklebear/webgpu-experiments)
 
