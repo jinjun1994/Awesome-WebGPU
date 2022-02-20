@@ -47,6 +47,7 @@
 ## Loaders
 [loaders.gl](https://loaders.gl/docs)
 
+[toji/web-texture-tool: Texture loading utility for WebGL and WebGPU](https://github.com/toji/web-texture-tool)
 
 
 ## best-practices
