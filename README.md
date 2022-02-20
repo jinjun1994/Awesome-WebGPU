@@ -5,6 +5,10 @@
 
 [WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 ## Articles
+[WebGPU 基础教程](https://mp.weixin.qq.com/s/RatM6VR8woUbkB_gp7xmuw)
+
+[为什么需要从 WebGL 转到 WebGPU?](https://mp.weixin.qq.com/s/Qo5OIap9OfDCJUu9dDP3zQ)
+
 [WebGPU for Metal Developers, Part One – Metal by Example](https://metalbyexample.com/webgpu-part-one/)
 
 [WebGPU for Metal Developers, Part Two – Metal by Example](https://metalbyexample.com/webgpu-part-two/)
@@ -28,5 +32,10 @@
 
 [redcamel/webgpu: webGPU basic samples](https://github.com/redcamel/webgpu)
 
+[toji/webgpu-test: Testing WebGPU](https://github.com/toji/webgpu-test)
+
+[austinEng/webgpu-samples: WebGPU Samples](https://github.com/austinEng/webgpu-samples)
+
 ## Libraries
 [redcamel/RedGPU: RedGPU - Javascript WebGPU Library](https://github.com/redcamel/RedGPU)
+
