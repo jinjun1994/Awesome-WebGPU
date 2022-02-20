@@ -27,6 +27,9 @@
 ## Libraries
 [redcamel/RedGPU: RedGPU - Javascript WebGPU Library](https://github.com/redcamel/RedGPU)
 
+## WebGPU Api implementing
+[gfx-rs/wgpu: Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu)
+
 ## Examples
 [Twinklebear/webgpu-experiments: A series of examples written while learning about WebGPU](https://github.com/Twinklebear/webgpu-experiments)
 
@@ -39,6 +42,15 @@
 [austinEng/webgpu-samples: WebGPU Samples](https://github.com/austinEng/webgpu-samples)
 
 [toji/webgpu-external-test: Tests consuming external textures with WebGPU](https://github.com/toji/webgpu-external-test) [(Live)](https://toji.github.io/webgpu-external-test/)
+
+## Engines
+[ArcheGraphics/Arche.js: Entity-Component Based Graphics Engine rendered by WebGPU](https://github.com/ArcheGraphics/Arche.js)
+
+## iOS | Android
+[jinleili/wgpu-on-app: Integrate wgpu on iOS | Android Apps without using winit](https://github.com/jinleili/wgpu-on-app)
+
+## Native
+[samdauwe/webgpu-native-examples: Collection of C-language examples that demonstrate basic rendering and computation in WebGPU native.](https://github.com/samdauwe/webgpu-native-examples)
 
 ## Games
 [toji/spookyball: WebGPU-powered, Halloween-themed breakout game](https://github.com/toji/spookyball) [(Live)](https://spookyball.com/)
@@ -58,6 +70,8 @@
 [webgpu-best-practices/buffer-uploads.md at main · toji/webgpu-best-practices](https://github.com/toji/webgpu-best-practices/blob/main/buffer-uploads.md)
 
 [toji/webgpu-metaballs: Metaballs rendered in WebGPU](https://github.com/toji/webgpu-metaballs) [(Live)](https://toji.github.io/webgpu-metaballs/)
+
+
 
 ## Gltf
 [Twinklebear/webgpu-gltf: A glTF loader and viewer using WebGPU](https://github.com/Twinklebear/webgpu-gltf)
