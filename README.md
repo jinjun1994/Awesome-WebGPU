@@ -6,7 +6,7 @@
 
 Awesome-WebGPU is a collection of WebGPU related sources, including official specifications, useful articles, tutorial pages, libs, and more.
 
-Please contribute. Let's make this guide better!
+**Please contribute. Let's make this guide better!**
 
 ---
 
@@ -17,6 +17,36 @@ To do:
 **Table of Contents**
 
 - [Specification](#Specification)
+
+- [WebGPU-API-implementing](#WebGPU-API-implementing)
+
+- [Articles](#Articles)
+
+- [Tutorials](#Tutorials)
+
+- [Awesome](#Awesome)
+
+- [Libraries](#Libraries)
+
+- [Examples](#Examples)
+
+- [Engines](#Engines)
+
+- [Mobiles](#Mobiles)
+
+- [Native](#Native)
+
+- [Games](#Games)
+
+- [Performance](#Performance)
+
+- [Compute](#Compute)
+
+- [Loaders](#Loaders)
+
+- [Best-Practices](#Best-Practices)
+
+- [Gltf](#Gltf)
 
 ---
 
@@ -29,6 +59,16 @@ The offical specification links.
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/)
 
 - [WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
+
+
+
+## WebGPU-API-implementing
+
+- [gfx-rs/wgpu: Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu) - Mozilla implementation
+
+- [dawn](https://dawn.googlesource.com/dawn) - Google implementation
+
+
 
 ## Articles
 
@@ -44,6 +84,7 @@ The articles that rich webgpu's ecosystem.
 - [WebGPU for Metal Developers, Part Two – Metal by Example](https://metalbyexample.com/webgpu-part-two/)
 
 - [onsummer/my-dev-notes: WebGPU 中的缓冲映射机制 (The Buffer Mapping mechanism in WebGPU)](https://github.com/onsummer/my-dev-notes/blob/master/graphicTech-Notes/WebGPU%20%E4%B8%AD%E7%9A%84%E7%BC%93%E5%86%B2%E6%98%A0%E5%B0%84%E6%9C%BA%E5%88%B6.md)
+
 
 ## Tutorials
 
@@ -65,12 +106,6 @@ Some useful pages that can help you learn webgpu.
 
 - [redcamel/RedGPU: RedGPU - Javascript WebGPU Library](https://github.com/redcamel/RedGPU)
 
-## WebGPU API implementing
-
-- [gfx-rs/wgpu: Safe and portable GPU abstraction in Rust, implementing WebGPU API.](https://github.com/gfx-rs/wgpu) - Mozilla implementation
-
-- [dawn](https://dawn.googlesource.com/dawn) - Google implementation
-
 ## Examples
 
 - [Twinklebear/webgpu-experiments: A series of examples written while learning about WebGPU](https://github.com/Twinklebear/webgpu-experiments)
@@ -89,7 +124,7 @@ Some useful pages that can help you learn webgpu.
 
 - [ArcheGraphics/Arche.js: Entity-Component Based Graphics Engine rendered by WebGPU](https://github.com/ArcheGraphics/Arche.js)
 
-## iOS | Android
+## Mobiles
 
 - [jinleili/wgpu-on-app: Integrate wgpu on iOS | Android Apps without using winit](https://github.com/jinleili/wgpu-on-app)
 
